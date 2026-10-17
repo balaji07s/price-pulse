@@ -1,0 +1,6 @@
+{
+  "name": "PricePulse",
+  "description": "Track product prices, monitor drops across stores, view interactive price history charts, and receive instant alert notifications offline.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
